@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:RF",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "RNF",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "RN",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
+  "textFadeMultiplier": -1.4,
+  "nodeSizeMultiplier": 1.04230769230769,
+  "lineSizeMultiplier": 2.02027027027027,
+  "collapse-forces": false,
+  "centerStrength": 0.0467775467775468,
+  "repelStrength": 14.3243243243243,
+  "linkStrength": 0.936590436590437,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.785921457062748,
   "close": true
 }
